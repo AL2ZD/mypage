@@ -58,12 +58,7 @@ li{
     color: #000000;
     text-align: center;
 }
-#Information{
-    transition:all 2s;
-}
-#About{
-    transition:all 2s;
-}
+
 .a21{
     background-color: #000000;
     color: #ffffff;
